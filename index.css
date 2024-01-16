@@ -1,0 +1,65 @@
+.description{
+    position: relative;
+    /* width: 100%; */
+    padding-left: 50px;
+    padding-top: 5px;
+    /* padding-bottom: 7px; */
+    top: 30vh;
+    background: #eaeaee;
+    height: 60vh;
+    height: calc(100vh - 30vh);
+}
+.container{
+    width: 440px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 26px;
+    font-weight: 500;   
+    letter-spacing: 0.02em;
+    text-align: left;
+    /* border: 6px solid red; */
+    margin-left: 40px;
+}
+
+body{
+    /* position: relative;
+    width: 1440px;
+    height: 692px;
+    left: 28px; */
+    margin: 0px;
+    padding: 0px;
+    /*  box-sizing: border-box; */
+} 
+
+.gymBoy{
+    position: absolute;
+    width: 545px;
+    height: 517px;
+    top: 0px;
+    left: 870px; 
+}
+
+.bottom-quote{
+    position: relative;
+    left: 418px;
+    opacity: 0.5px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #414346;
+
+}
+
+h2{
+    color: #414346;
+    font-family: Neue Haas Grotesk Display Pro;
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: 0em;
+    text-align: left;
+}
